@@ -1,0 +1,8 @@
+D:\projects\WinForm\IDCardTool\IDCardTool\bin\Debug\IDCardTool.exe
+D:\projects\WinForm\IDCardTool\IDCardTool\bin\Debug\IDCardTool.pdb
+D:\projects\WinForm\IDCardTool\IDCardTool\obj\Debug\IDCardTool.csprojResolveAssemblyReference.cache
+D:\projects\WinForm\IDCardTool\IDCardTool\obj\Debug\IDCardTool.MainForm.resources
+D:\projects\WinForm\IDCardTool\IDCardTool\obj\Debug\IDCardTool.Properties.Resources.resources
+D:\projects\WinForm\IDCardTool\IDCardTool\obj\Debug\IDCardTool.csproj.GenerateResource.Cache
+D:\projects\WinForm\IDCardTool\IDCardTool\obj\Debug\IDCardTool.exe
+D:\projects\WinForm\IDCardTool\IDCardTool\obj\Debug\IDCardTool.pdb
